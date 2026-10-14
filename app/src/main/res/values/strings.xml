@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pocket HID</string>
+    <string name="notification_channel_name">蓝牙 HID 会话</string>
+    <string name="notification_channel_description">保持键盘与触控板连接</string>
+    <string name="notification_title">Pocket HID 正在运行</string>
+    <string name="notification_waiting">等待 Windows 连接</string>
+    <string name="notification_connected">已连接：%1$s</string>
+</resources>
